@@ -1,0 +1,2 @@
+This is a backup file for migration wordpress base site.
+Plugin: WPvivid Backup Plugin
