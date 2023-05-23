@@ -1,2 +1,4 @@
 This is a backup file for migration wordpress base site.
+id: admin
+pass: 1234
 Plugin: WPvivid Backup Plugin
